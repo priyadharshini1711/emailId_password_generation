@@ -1,0 +1,18 @@
+/home/admin/installed/jdk1.8.0_73/bin/java -javaagent:/home/admin/.local/share/umake/ide/idea/lib/idea_rt.jar=33113:/home/admin/.local/share/umake/ide/idea/bin -Dfile.encoding=UTF-8 -classpath /home/admin/installed/jdk1.8.0_73/jre/lib/charsets.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/deploy.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/ext/cldrdata.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/ext/dnsns.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/ext/jaccess.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/ext/jfxrt.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/ext/localedata.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/ext/nashorn.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/ext/sunec.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/ext/sunjce_provider.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/ext/sunpkcs11.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/ext/zipfs.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/javaws.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/jce.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/jfr.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/jfxswt.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/jsse.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/management-agent.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/plugin.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/resources.jar:/home/admin/installed/jdk1.8.0_73/jre/lib/rt.jar:/home/admin/Downloads/Priyadharshini/Email_generation/out/production/Email_generation emailApp
+Hey user welcome to abc email services
+ Enter your firstname and lastname
+priya 
+dharshini
+Enter Department code 
+1. Sale 
+2. Development 
+3. Accounting 
+4. None
+1
+Enter alternate email addresspriy@gmail.com
+First Name = priya
+Last Name =dharshini
+Email =priya.dharshini@sales.company.com
+Password =!FLC7W7&WJ
+Alternate email id =priy@gmail.com
+Process finished with exit code 0
